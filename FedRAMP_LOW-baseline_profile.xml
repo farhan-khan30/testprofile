@@ -171,16 +171,6 @@
 		<set-param param-id="ac-7_prm_4">
 			<constraint>locks the account/node for thirty minutes</constraint>
 		</set-param>
-		<!-- - - AC-8 - -  -->
-		<alter control-id="ac-8">
-			<add>
-				<part class="guidance">
-					<p>Requirement: The service provider shall determine elements of the cloud environment that require the System Use Notification control. The elements of the cloud environment that require System Use Notification are approved and accepted by the JAB.</p>
-					<p>Requirement: The service provider shall determine how System Use Notification is going to be verified and provide appropriate periodicity of the check. The System Use Notification verification and periodicity are approved and accepted by the JAB.</p>
-					<p>Guidance: If performed as part of a Configuration Baseline check, then the % of items requiring setting that are checked and that pass (or fail) check can be provided. AC-8 Requirement: If not performed as part of a Configuration Baseline check, then there must be documented agreement on how to provide results of verification and the necessary periodicity of the verification by the service provider. The documented agreement on how to provide verification of the results are approved and accepted by the JAB.</p>
-				</part>
-			</add>
-		</alter>
 		<set-param param-id="ac-8_prm_1">
 			<constraint>see additional Requirements and Guidance</constraint>
 		</set-param>
