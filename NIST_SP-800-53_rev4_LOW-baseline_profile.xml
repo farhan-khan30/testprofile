@@ -155,11 +155,6 @@
             <prop class="priority">P2</prop>
          </add>
       </alter>
-      <alter control-id="ac-8">
-         <add position="starting">
-            <prop class="priority">P1</prop>
-         </add>
-      </alter>
       <alter control-id="ac-14">
          <add position="starting">
             <prop class="priority">P3</prop>
